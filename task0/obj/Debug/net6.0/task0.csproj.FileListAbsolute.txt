@@ -1,0 +1,15 @@
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\bin\Debug\net6.0\task0.exe
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\bin\Debug\net6.0\task0.deps.json
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\bin\Debug\net6.0\task0.dll
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\bin\Debug\net6.0\task0.pdb
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.dll
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\refint\task0.dll
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.pdb
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
+C:\Users\Intel\Desktop\Java\C#\Seminar1\task0\obj\Debug\net6.0\ref\task0.dll
